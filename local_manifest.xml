@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="desire500/android_vendor_z4u" path="vendor/htc/z4u" remote="github" />
-  <project name="desire500/android_device_htc_z4u" path="device/htc/z4u" remote="github" branch="cm-10.1 />
+  <project name="desire500/android_device_htc_z4u" path="device/htc/z4u" remote="github" branch="cm-10.1" />
   <project name="desire500/android_kernel_htc_z4u" path="kernel/htc/z4u" remote="github" />
 </manifest>
 
